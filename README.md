@@ -4,7 +4,7 @@ In this example, we will infer recombination parameters of _Helicobacter pylori_
 ```sh
 cd ~/Downloads
 git clone https://github.com/kussell-lab/mcorr_examples.git
-cd mcorr_examples/Helicobacter_pylori_transformation_experiments
+cd Helicobacter_pylori_transformation_experiments
 ```
 
 1. We then calculate correlation profiles using `mcorr-bam`, and perform fitting using `mcorr-fit`. It takes 5-10 minutes in a normal PC.
